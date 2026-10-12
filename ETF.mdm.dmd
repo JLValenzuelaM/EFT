@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ETF.mdm" id="48907D1C-388C-9FCB-D5C3-05F6CF29ACAF" version="3.5">
+<createdBy>Kocho</createdBy>
+<createdTime>2026-10-12 01:03:50 UTC</createdTime>
+<ownerDesignName>ETF.mdm</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>48907D1C-388C-9FCB-D5C3-05F6CF29ACAF</designId>
+</OSDM_Design>
